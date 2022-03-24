@@ -92,6 +92,6 @@ Runner.instance_.tRex.setJumpVelocity(10)
 
 - Literally endless : get to the `maximum` possible score of `99,999` and the game simply `resets` itself.
 
-<p align="left">
+<p align="center">
   <img alt="" style="{max-height: 0px}" src="./Dinosaur Game/Dino.gif">
 </p>
