@@ -1,2 +1,2 @@
-# Dinosaur_Game
+# Dinosaur Game
 Automation in Dinosaur Game (DINO)
