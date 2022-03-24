@@ -91,3 +91,7 @@ Runner.instance_.tRex.setJumpVelocity(10)
 - It's an `endless` running game, like a `straight-line` version of Temple Run with no levels. 
 
 - Literally endless : get to the `maximum` possible score of `99,999` and the game simply `resets` itself.
+
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="./Dinosaur Game/Dino.gif">
+</p>
