@@ -13,6 +13,10 @@ You can click [here](chrome://dino/) to play or turn off your internet to access
 
 - You can see `HI` to check your `Highest` & `Current` Score.
 
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="./Dinosaur Game/Press space to play.png">
+</p>
+
 ## End of Dinosaur Game
 
 - It's an `endless` running game, like a `straight-line` version of Temple Run with no levels. 
