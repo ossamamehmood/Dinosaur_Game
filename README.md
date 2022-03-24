@@ -67,7 +67,7 @@ You can control how high the dino jumps by using the below function. Adjust the 
 Runner.instance_.tRex.setJumpVelocity(10)
 ```
 
-#### Fully Automation Dino / Auto Jumping
+# Fully Automation Dino / Auto Jumping
 
 You can fully automate your dino using the given code on console.
 
